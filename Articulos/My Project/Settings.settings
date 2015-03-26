@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="cadena" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=.\SQLExpress;Database=Facturacion;User Id=sa;Password=1935ab73;</Value>
+    </Setting>
+    <Setting Name="usuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1935ab73</Value>
+    </Setting>
+    <Setting Name="servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nbk-diego\sqlexpress</Value>
+    </Setting>
+    <Setting Name="baseconexion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Facturacion</Value>
+    </Setting>
+    <Setting Name="sucursal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="cadenaWEB" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=138.36.236.215,1433;Network Library=DBMSSOCN;Initial Catalog=FacturacionSuperMarc;User ID=creatif;Password=CreatifS;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,45 @@
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.Resources.resources
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflfacturacion.vbproj.GenerateResource.Cache
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.dll
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.xml
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflfacturacion.vbprojResolveAssemblyReference.cache
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.dll
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.xml
+C:\SistemasGithub\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\wflFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Debug\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflfacturacion.vbprojResolveAssemblyReference.cache
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflfacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Debug\wflFacturacion.pdb
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\wflFacturacion.dll
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\wflFacturacion.pdb
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\wflFacturacion.xml
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\brlFacturacion.dll
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\dtlFacturacion.dll
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\brlFacturacion.pdb
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\brlFacturacion.xml
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\dtlFacturacion.pdb
+C:\Proyecto Facturacion\wflArticulos\bin\Debug\dtlFacturacion.xml
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflfacturacion.vbprojResolveAssemblyReference.cache
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflFacturacion.Resources.resources
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflfacturacion.vbproj.GenerateResource.Cache
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflFacturacion.dll
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflFacturacion.xml
+C:\Proyecto Facturacion\wflArticulos\obj\Debug\wflFacturacion.pdb

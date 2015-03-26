@@ -1,0 +1,15 @@
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\wflFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\wflFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\wflFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\wflArticulos\bin\Release\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflfacturacion.vbprojResolveAssemblyReference.cache
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflfacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflFacturacion.dll
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflFacturacion.xml
+C:\ProyectosGit\FacturacionNET\wflArticulos\obj\Release\wflFacturacion.pdb

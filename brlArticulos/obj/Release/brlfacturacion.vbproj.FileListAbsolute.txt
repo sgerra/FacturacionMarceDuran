@@ -1,0 +1,12 @@
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Release\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlfacturacion.vbprojResolveAssemblyReference.cache
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlfacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Release\brlFacturacion.pdb

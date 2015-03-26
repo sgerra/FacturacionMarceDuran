@@ -1,0 +1,219 @@
+D:\Diego\Abaco\Proyectos\FacturacionNET\Articulos\bin\Debug\Articulos.exe.config
+D:\Diego\Abaco\Proyectos\FacturacionNET\Articulos\obj\Debug\Articulos.exe
+D:\Diego\Abaco\Proyectos\FacturacionNET\Articulos\obj\Debug\Articulos.xml
+D:\Diego\Abaco\Proyectos\FacturacionNET\Articulos\obj\Debug\Articulos.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormCompras.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormArticulos.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormBuscarArticulos.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormEmiteFac.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormPideCodart.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormPrincipal.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.Resources.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\AppFacturacion.vbproj.GenerateResource.Cache
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\FormBuscarArticulos.resx
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\FormBuscarArticulos.Designer.vb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\FormBuscarArticulos.vb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\Articulos.exe.config
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\Articulos.exe
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\Articulos.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\Articulos.xml
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\wflFacturacion.dll
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\brlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\wflFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\wflFacturacion.xml
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\brlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\brlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\AppFacturacion.vbprojResolveAssemblyReference.cache
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\Articulos.exe
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\Articulos.xml
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\Articulos.pdb
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormBuscaPedido.resources
+C:\SistemasGithub\FacturacionNET\Articulos\obj\Debug\WindowsApplication1.FormModificaCompra.resources
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\Articulos.exe.config
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\FormBuscarArticulos.resx
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\FormBuscarArticulos.Designer.vb
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\FormBuscarArticulos.vb
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\Articulos.exe
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\Articulos.pdb
+C:\ProyectosGit\FacturacionNET\pltFacturacion\bin\Debug\Articulos.xml
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\Articulos\FormBuscarArticulos.resx
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\Articulos\FormBuscarArticulos.Designer.vb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\Articulos\FormBuscarArticulos.vb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.exe.config
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.exe.manifest
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.application
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.exe
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\AppFacturacion.xml
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\C1.Win.C1Input.2.dll
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\wflFacturacion.dll
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\wflFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\wflFacturacion.xml
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\C1.Win.C1Input.2.xml
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\Articulos\bin\Debug\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.vbprojResolveAssemblyReference.cache
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\Interop.Scripting.dll
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.vbproj.ResolveComReference.cache
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaPrecio.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarArticulosNew.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificarArticulos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificarPrecios.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAperturaCaja.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarCajas.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormDetalleCajaDiaria.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaArticulos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormComprasNew.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarArtFactu.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormPide.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaBoni.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBonificaciones.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaCheques.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormCheques.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarClientes.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificaCliente.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FrmAgregaCliente.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscaPedido.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormCompras.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormImprimeReporte.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificaCompra.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormArticulos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarArticulos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaDeposito.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormDepositos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaEfectivo.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormEfectivo.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAtencion.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormEmiteFac.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormPideCodart.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormVuelto.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormPrincipal.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaOC.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormOtrosConceptos.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormCtaCte.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormDeudaProvePpal.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormImprimePAgo.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormPagosProveedores.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormSeleccionaProveedor.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaPerfil.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormPerfiles.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaPermiso.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarPerfiles.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModiPermi.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAgregaStock.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificaStock.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormAltaUsuarios.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormBuscarUsuarios.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormCambioClave.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormInicioSesion.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormModificaUsuario.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.exe.licenses
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.TrustInfo.xml
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.exe.manifest
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.application
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.exe
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.xml
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormSeleccionaCliente.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormFacturacionLibre.resources
+C:\ProyectosGit\FacturacionNET\Articulos\obj\Debug\AppFacturacion.FormImprimeFactura.resources
+C:\Proyecto Facturacion\Articulos\bin\Debug\Articulos\FormBuscarArticulos.resx
+C:\Proyecto Facturacion\Articulos\bin\Debug\Articulos\FormBuscarArticulos.Designer.vb
+C:\Proyecto Facturacion\Articulos\bin\Debug\Articulos\FormBuscarArticulos.vb
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.exe.config
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.exe.manifest
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.application
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.exe
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.pdb
+C:\Proyecto Facturacion\Articulos\bin\Debug\AppFacturacion.xml
+C:\Proyecto Facturacion\Articulos\bin\Debug\C1.Win.C1Input.2.dll
+C:\Proyecto Facturacion\Articulos\bin\Debug\wflFacturacion.dll
+C:\Proyecto Facturacion\Articulos\bin\Debug\brlFacturacion.dll
+C:\Proyecto Facturacion\Articulos\bin\Debug\dtlFacturacion.dll
+C:\Proyecto Facturacion\Articulos\bin\Debug\wflFacturacion.pdb
+C:\Proyecto Facturacion\Articulos\bin\Debug\wflFacturacion.xml
+C:\Proyecto Facturacion\Articulos\bin\Debug\C1.Win.C1Input.2.xml
+C:\Proyecto Facturacion\Articulos\bin\Debug\brlFacturacion.pdb
+C:\Proyecto Facturacion\Articulos\bin\Debug\brlFacturacion.xml
+C:\Proyecto Facturacion\Articulos\bin\Debug\dtlFacturacion.pdb
+C:\Proyecto Facturacion\Articulos\bin\Debug\dtlFacturacion.xml
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.vbprojResolveAssemblyReference.cache
+C:\Proyecto Facturacion\Articulos\obj\Debug\Interop.Scripting.dll
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.vbproj.ResolveComReference.cache
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaPrecio.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarArticulosNew.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificarArticulos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificarPrecios.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAperturaCaja.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarCajas.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormDetalleCajaDiaria.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarClientesNew.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaArticulos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormComprasNew.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormImprimeFactura.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormSeleccionaCliente.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarArtFactu.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPide.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaBoni.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBonificaciones.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaCheques.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormCheques.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarClientes.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificaCliente.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FrmAgregaCliente.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscaPedido.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormCompras.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormImprimeReporte.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificaCompra.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormArticulos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarArticulos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaDeposito.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormDepositos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaEfectivo.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormEfectivo.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAtencion.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormEmiteFac.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPideCodart.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormVuelto.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPrincipal.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormFacturacionLibre.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.Resources.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormobtenerNovedades.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAumentaPrecioPorProveedor.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaOC.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormOtrosConceptos.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormCtaCte.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormDeudaProvePpal.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormImprimePAgo.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPagosProveedores.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormSeleccionaProveedor.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaPerfil.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPerfiles.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaPermiso.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarPerfiles.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModiPermi.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormPrepararNovedades.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAgregaStock.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificaStock.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormAltaUsuarios.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormBuscarUsuarios.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormCambioClave.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormInicioSesion.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.FormModificaUsuario.resources
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.vbproj.GenerateResource.Cache
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.exe.licenses
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.TrustInfo.xml
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.exe.manifest
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.application
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.exe
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.xml
+C:\Proyecto Facturacion\Articulos\obj\Debug\AppFacturacion.pdb

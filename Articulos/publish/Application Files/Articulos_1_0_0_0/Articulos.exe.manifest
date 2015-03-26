@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Articulos.exe" version="1.0.0.0" publicKeyToken="fe7b182e5393dc91" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Articulos" version="1.0.0.0" publicKeyToken="F2C18AC20CAE4C39" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Articulos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto de Control de cuentas de usuario
+             Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+             nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            La especificación del nodo requestedExecutionLevel deshabilitará la virtualización de archivos y del Registro.
+            Si desea usar la virtualización de archivos y del Registro para la compatibilidad 
+            con versiones anteriores, elimine el nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="brlFacturacion" version="1.0.0.0" publicKeyToken="F2C18AC20CAE4C39" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.ClientDoc" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.CommLayer" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.CommonControls" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.CommonObjectModel" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.Controllers" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.CubeDefModel" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.DataDefModel" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.DataSetConversion" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.ObjectFactory" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.Prompting" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.ReportDefModel" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportAppServer.XmlSerialize" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.ReportSource" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.Shared" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="CrystalDecisions.Windows.Forms" version="13.0.2000.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="dtlFacturacion" version="1.0.0.0" publicKeyToken="F2C18AC20CAE4C39" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="FlashControlV71" version="1.0.3187.32366" publicKeyToken="692FBEA5521E1304" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="log4net" version="1.2.10.0" publicKeyToken="692FBEA5521E1304" language="neutral" processorArchitecture="amd64" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ShockwaveFlashObjects" version="1.0.0.0" publicKeyToken="692FBEA5521E1304" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="wflFacturacion" version="1.0.0.0" publicKeyToken="F2C18AC20CAE4C39" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Articulos.exe" size="161792">
+      <assemblyIdentity name="Articulos" version="1.0.0.0" publicKeyToken="F2C18AC20CAE4C39" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>C9FHSP4Y0wS4aOlVp2mDT8mv54A7anZ5N6NgBRPowZ0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Articulos.exe.config" size="2726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hL1jzDhOJsWCYi52tpJ7wHuz00Bo7/Bn27MrKt52eKk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="My Project\Application.myapp" size="473">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>70mNet76qIu3V5kSkW/Di49Sy2zigRVdAPPuFxmZkIk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Lista de todas las versiones de Windows con las que esta aplicación está diseñada para funcionar. 
+      Windows seleccionará automáticamente el entorno de mayor compatibilidad.-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows Vista, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 7, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 8, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- Si la aplicación está diseñada para funcionar con Windows 8.1, quite los comentarios del siguiente nodo supportedOS-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=NBK-DIEGO\Diego Spinedi" issuerKeyHash="37cbf91785cbd836593906390273f2f36ad31edc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Bzkk0ZcrpEN8S1re+z6+5EF7MI8iTlsmWwYarupAEso=</DigestValue></Reference></SignedInfo><SignatureValue>f4ldUwGiAgwdJFxnCHpypMx6VFu3Fq4oiHweXDVA15Npbxv7x5Gn/mCB5LbSOamMyjAltjkN7bihLe5/dLgHdQmv+rr6glapacxQqfqtlRh8UfeCU6+z2nDBVomtFpsLt6tvGLX37JKktxlPOJWY5T9Bfi0wbMOWDfuo5O0XQbM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wbIDB5Bn1ayGFtNkzzDXmIAtFCPCycpv90Sh90J56J5uB5CT66guf+IXLaLt34+5EVb8SIvAzfb/gL7wUMdmkAI3XpjUYC8Rll7yQFnMh1LSduzRHcop/Y0RTYQYakP2woZgyDE3pUNH/gbk6bPRnWZmXaOTiFlSiFgJ/dWPchU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ca1240eaae1a065b265b4e228f307b41e4be3efbde5a4b7c43a42b97d1243907" Description="" Url=""><as:assemblyIdentity name="Articulos.exe" version="1.0.0.0" publicKeyToken="fe7b182e5393dc91" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NBK-DIEGO\Diego Spinedi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>oPC/BCvymcruBvDoCeopsev6RN7vKoCKiKVXgP5uYJ0=</DigestValue></Reference></SignedInfo><SignatureValue>LLgycC+IG5EYeJ10IOOYSydPz40FowpZtmty4vYlB0aSMeHtaWtl8PuBTBKlMzSXxm8FFLLUfnU/TqHahwqjkZv5qjuABiItGFodimHmRqsFBflRhsVKfVIsqwuONA217fsesEqwiw3lBCfNsB+sWyEa0Ur2dMpHG87vxko+BoQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wbIDB5Bn1ayGFtNkzzDXmIAtFCPCycpv90Sh90J56J5uB5CT66guf+IXLaLt34+5EVb8SIvAzfb/gL7wUMdmkAI3XpjUYC8Rll7yQFnMh1LSduzRHcop/Y0RTYQYakP2woZgyDE3pUNH/gbk6bPRnWZmXaOTiFlSiFgJ/dWPchU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQNCggFd71bI9Ac568FVP/DjANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ATgBCAEsALQBEAEkARQBHAE8AXABEAGkAZQBnAG8AIABTAHAAaQBuAGUAZABpMB4XDTE0MTEyODE3NDMxM1oXDTE1MTEyODIzNDMxM1owOTE3MDUGA1UEAx4uAE4AQgBLAC0ARABJAEUARwBPAFwARABpAGUAZwBvACAAUwBwAGkAbgBlAGQAaTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwbIDB5Bn1ayGFtNkzzDXmIAtFCPCycpv90Sh90J56J5uB5CT66guf+IXLaLt34+5EVb8SIvAzfb/gL7wUMdmkAI3XpjUYC8Rll7yQFnMh1LSduzRHcop/Y0RTYQYakP2woZgyDE3pUNH/gbk6bPRnWZmXaOTiFlSiFgJ/dWPchUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAHEFy+2pNv625Rxv6v8CjmZ2IxzhPzoAPFHp6XJq5gnlyf9jY5Wx32mZqfOFie5mhFACU6CIRbTHF4jRlbhCAFOYDIvVp5FYe1VbaHqkQ4T6/BV3/Y55JwrUi685EKScY+jCP7ZqANNYzXb7dGirt9E8IJgIcGTB+ZkIE7btciCw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

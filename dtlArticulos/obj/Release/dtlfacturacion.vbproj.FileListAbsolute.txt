@@ -1,0 +1,8 @@
+C:\ProyectosGit\FacturacionNET\dtlArticulos\bin\Release\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\dtlArticulos\bin\Release\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\dtlArticulos\bin\Release\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\dtlArticulos\obj\Release\dtlFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\dtlArticulos\obj\Release\dtlfacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\dtlArticulos\obj\Release\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\dtlArticulos\obj\Release\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\dtlArticulos\obj\Release\dtlFacturacion.pdb

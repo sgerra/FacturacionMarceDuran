@@ -1,0 +1,15 @@
+bin\Debug\wflArticulos.dll
+bin\Debug\wflArticulos.pdb
+bin\Debug\wflArticulos.xml
+bin\Debug\brlArticulos.dll
+bin\Debug\dtlArticulos.dll
+bin\Debug\dtlArticulos.pdb
+bin\Debug\dtlArticulos.xml
+bin\Debug\brlArticulos.pdb
+bin\Debug\brlArticulos.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\wflfacturacion.vbproj.GenerateResource.Cache
+obj\Debug\wflArticulos.dll
+obj\Debug\wflArticulos.xml
+obj\Debug\wflArticulos.pdb
+obj\Debug\Facturacion.wflfacturacion.Resources.resources

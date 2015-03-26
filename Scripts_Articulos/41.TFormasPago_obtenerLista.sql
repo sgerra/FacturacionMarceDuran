@@ -1,0 +1,8 @@
+USE FACTURACION
+GO
+
+CREATE PROCEDURE TFormasPago_obtenerLista
+
+AS
+
+SELECT * FROM t_FormasPago

@@ -1,0 +1,36 @@
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.Resources.resources
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlfacturacion.vbproj.GenerateResource.Cache
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.pdb
+C:\SistemasGithub\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlfacturacion.vbprojResolveAssemblyReference.cache
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.dll
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.xml
+C:\SistemasGithub\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.pdb
+C:\ProyectosGit\FacturacionNET\brlArticulos\bin\Debug\dtlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlfacturacion.vbprojResolveAssemblyReference.cache
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.Resources.resources
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlfacturacion.vbproj.GenerateResource.Cache
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.dll
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.xml
+C:\ProyectosGit\FacturacionNET\brlArticulos\obj\Debug\brlFacturacion.pdb
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\brlFacturacion.dll
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\brlFacturacion.pdb
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\brlFacturacion.xml
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\dtlFacturacion.dll
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\dtlFacturacion.pdb
+C:\Proyecto Facturacion\brlArticulos\bin\Debug\dtlFacturacion.xml
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlfacturacion.vbprojResolveAssemblyReference.cache
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlFacturacion.Resources.resources
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlfacturacion.vbproj.GenerateResource.Cache
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlFacturacion.dll
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlFacturacion.xml
+C:\Proyecto Facturacion\brlArticulos\obj\Debug\brlFacturacion.pdb
